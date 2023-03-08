@@ -3,7 +3,7 @@
 <p align=center>
 Repository contains a portfolio of data science study projects completed by Kerim Omarov <br>
 Presented in the form of iPython Notebooks and readme markdown files. <br>
-  <a href="https://github.com/KerimOmarov/yandex_practicum_projects/Kerim Omarov_Certificate.pdf"><b>Certificate of completion the course</b> :mortar_board: </a><br>
+  <a href="https://github.com/KerimOmarov/yandex_practicum_projects/blob/main/Kerim%20Omarov_Certificate.pdf"><b>Certificate of completion the course</b> :mortar_board: </a><br>
 </p><br>
 
 <table width=100% valign=top >
