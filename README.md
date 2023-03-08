@@ -1,4 +1,4 @@
-<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
+<center><h1>Yandex.Practikum Data Science Projects</h1></center>
 <p align=center><img width=60% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"><br><br>
 <p align=center>
 Repository contains a portfolio of data science study projects completed by Kerim Omarov <br>
