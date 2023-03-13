@@ -14,17 +14,17 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/01.%20bank_customer_churn">Research on the reliability of borrowers</a></td>
-    <td> Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time</td>
+    <td> Carried out a research for the loan department of the bank to determine how does the marital status, number of children, income level and education of the client affect the fact of repaying the loan on time.</td>
     <td>Pandas, Numpy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/02.%20real_estate_market_research">Real Estate Market Research</a></td>
-    <td>Determined the market value of real estate in St. Petersburg and neighboring settlements for several years for the Yandex.Real Estate service. I set the parameters that would allow the construction of an automated system: it would track anomalies and fraudulent activity. </td>
+    <td>Determined the market value of real estate in St. Petersburg and neighboring settlements for several years. We needed to determine the parameters that would allow the construction of an automated system: it would track anomalies and fraudulent activity. </td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Exploratory Data Analysis</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/03.%20tariff_for_telecom_company">Tariff for telecom company</a></td>
-    <td> Conducted a preliminary analysis of two existing tariffs on a small sample of customers (500 people) to determine which one brings more profit, conducted an analysis of customer behavior.</td>
+    <td> Conducted an analysis of two existing tariffs on a small sample of customers (500 people) to determine which one brings more profit and also conducted an analysis of customer behavior.</td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statistical Data Analysis</td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/05.%20telecom_tariff_recommendation">Telecomm tariff recommendation</a></td>
-    <td> Built a Machine Learning model for the classification problem, which finds a suitable tariff</td>
+    <td> We have at our disposal data on the behavior of customers who have already switched to these tariffs. It is necessary to build a model for the classification problem, which will select a suitable tariff. It is necessary to build a model with the highest possible accuracy</td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Machine Learning, Sklearn</td>
   </tr>
   <tr>
@@ -45,26 +45,26 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/07.%20oil_well_location">Oil well location</a></td>
     <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
-    <td>Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Machine Learning</td>
+    <td>Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Machine Learning, Bootstrap</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/08.%20gold_recovery">Gold Recovery</a></td>
-    <td>Developed a model predicting the recovery rate of gold from gold ore. The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
+    <td> Built a model predicting the recovery rate of gold from gold ore. The model should help to optimize production to avoid the launch of a plant with unprofitable characteristics.</td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Machine Learning, Scipy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/09.%20linear_algebra">Linear Algebra</a></td>
-    <td>The personal information of the clients of the insurance company was protected (encrypted), using the data encryption method..</td>
+    <td> Built and tested the encryption mechanism to protect the personal information of the clients of the insurance company. </td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Machine Learning, Scipy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/10.%20car_price_prediction">Car Price Prediction</a></td>
-    <td>Trained the Machine Learning model to determine the market value of the car.</td>
+    <td> Built the Machine Learning model to determine the market value of the car.</td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Scipy, Machine Learning, LightGBM, CatBoost, GridSearchCV</td>
   </tr>
   <tr>
     <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/11.%20time_series">Time Series</a></td>
-    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
+    <td> Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Scipy, Machine Learning, LightGBM, CatBoost, GridSearchCV, TimeSeries, Statmodels</td>
   </tr>
   <tr>
@@ -74,12 +74,12 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
   </tr>
   <tr>
   <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/13.%20cv_age_prediction">CV Age Prediction</a></td>
-    <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
+    <td> Using a set of photos of people with an indication of their age, built a machine learning model that determines the approximate age of a person on a photo.</td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras, Adam</td>
   </tr>
   <tr>
   <td><a href="https://github.com/KerimOmarov/yandex_practicum_projects/tree/main/14.%20final_project">Final Projects</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
+    <td>Built a model that predicts the temperature of the steel to optimize production costs and to reduce the electricity consumption during the steel processing.</td>
     <td>Pandas, Numpy, Matplotlib, Seaborn, Machine Learning, LightGBM, CatBoost, Voting Regressor, Stacking Regressor, Pipelines, GridSearchCV, XGBoost</td>
   </tr>
 </table>
